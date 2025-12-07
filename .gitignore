@@ -1,0 +1,13 @@
+node_modules
+coverage
+.vscode
+sum
+*.env
+platformUsers.json
+seed
+__tests__
+*jest*
+.early.coverage
+tests/
+runner.js
+typesense-data
